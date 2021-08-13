@@ -1,4 +1,4 @@
-![Microverse](https://img.shields.io/badge/myapp-blueviolet)
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Math magicians Component
 
