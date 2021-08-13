@@ -60,3 +60,23 @@ class Calculator extends React.Component {
           </button>
           <button type="button" className="grey">
             3
+          </button>
+          <button type="button" className="orange">
+            +
+          </button>
+          <button type="button" className="grey, zero">
+            0
+          </button>
+          <button type="button" className="grey">
+            .
+          </button>
+          <button type="button" className="orange">
+            =
+          </button>
+        </div>
+      </div>
+    );
+  }
+}
+
+export default Calculator;
