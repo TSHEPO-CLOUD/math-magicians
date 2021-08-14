@@ -39,6 +39,23 @@ class Calculator extends React.Component {
             onClick={(e) => this.handleClick(e.target.name)}
             className="grey"
           >
+            +/-
+          </button>
+          <button
+            name=""
+            type="button"
+            onClick={(e) => this.handleClick(e.target.name)}
+            className="grey"
+          >
+            %
+          </button>
+          <button
+            name="÷"
+            type="button"
+            onClick={(e) => this.handleClick(e.target.name)}
+            className="orange"
+          >
+            ÷
         
   }
 }
