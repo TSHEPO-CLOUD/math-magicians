@@ -1,4 +1,3 @@
-
 /* eslint-disable react/prefer-stateless-function, quotes */
 
 import React from "react";
