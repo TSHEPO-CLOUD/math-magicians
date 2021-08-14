@@ -90,7 +90,6 @@ export default function calculate(obj, buttonName) {
     return { operation: buttonName };
   }
 
-  
   return {
     total: obj.next,
     next: null,
