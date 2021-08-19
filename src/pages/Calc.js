@@ -4,7 +4,7 @@ import './Calc.css';
 
 const Calc = () => (
   <div className="calc-holder">
-    <h2 className="sub-title">Let`s do some math!</h2>
+    <h2 className="sub-title">E=MC2</h2>
     <Calculator />
   </div>
 );

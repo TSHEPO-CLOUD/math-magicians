@@ -4,7 +4,7 @@ import './Nav.css';
 
 export default function Nav() {
   const navStyle = {
-    color: 'blue',
+    color: 'white',
   };
   return (
     <div>
